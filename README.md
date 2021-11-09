@@ -36,6 +36,6 @@ https://github.com/ruman23/Bangla-Document-Categorization/archive/refs/heads/mas
 
 ## Implementaion 
 
-For details implementaion please check the following link
+For details implementaion please check out the following link
 
 https://github.com/ruman23/Bangla-Document-Categorization/blob/master/Document_Categorization.ipynb
