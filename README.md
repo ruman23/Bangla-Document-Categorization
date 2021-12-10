@@ -1,4 +1,4 @@
-# Bangla-Document-Categorization
+# Bangla Document Categorization
 
 This project is for categorizing the Bangla news. In this project we have categorised the Bangla news paper in 12 following sections. 
 
